@@ -2,4 +2,4 @@ DBG Control
 
 UART based debugger tool with constellation plot, spectrum analyzer and oscilloscope.
 
-Check release link for download or go to https://www.iprim.com
+Check release link for download or go to https://www.iprium.com/download/
